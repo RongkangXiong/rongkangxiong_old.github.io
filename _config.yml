@@ -81,20 +81,20 @@ analytics:
 # Site Author
 author:
   name             : "熊荣康"
-  avatar           : "profile.png"
+  avatar           : "/images/profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : earth@mail.ustc.edu.cn
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "earth@mail.ustc.edu.cn"
+  #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : Durican Kang
+  #facebook         : Durican Kang
   #foursquare       :
   github           : "https://github.com/RongkangXiong"
   #google_plus      :
